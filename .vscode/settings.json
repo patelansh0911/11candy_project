@@ -12,5 +12,6 @@
     "[python]": {
         "editor.tabSize": 4,
         "editor.insertSpaces": true
-    }
+    },
+    "python.pythonPath": ".venv\\Scripts\\python.exe"
 }
